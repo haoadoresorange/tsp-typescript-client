@@ -1,5 +1,5 @@
 {
-  "version": "0.3.0",
+  "version": "0.73.0",
   "private": "true",
   "license": "MIT",
   "keywords": [
@@ -29,7 +29,7 @@
   },
   "workspaces": [
     "tsp-typescript-client"
-],
+  ],
   "scripts": {
     "prepare": "yarn build",
     "build": "lerna run build",
