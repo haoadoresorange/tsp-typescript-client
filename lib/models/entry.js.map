@@ -1,0 +1,1 @@
+{"version":3,"file":"entry.js","sourceRoot":"","sources":["../../src/models/entry.ts"],"names":[],"mappings":";;;AACA,6DAAyD;AAG5C,QAAA,WAAW,GAAkB;IACtC,EAAE,EAAE,4BAAY;IAChB,QAAQ,EAAE,4BAAY;CACzB,CAAC;AA+CK,MAAM,gBAAgB,GAAG,CAAkB,MAAiB,EAAyB,EAAE,CAAC,CAAC,EAAE,OAAO,EAAE,CAAC,MAAM,CAAC,EAAE,CAAC,CAAC;AAA1G,QAAA,gBAAgB,oBAA0F"}
