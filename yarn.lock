@@ -6277,10 +6277,10 @@ whatwg-url@^8.0.0, whatwg-url@^8.4.0, whatwg-url@^8.5.0:
     tr46 "^2.1.0"
     webidl-conversions "^6.1.0"
 
-when-json-met-bigint@^0.21.0:
-  version "0.21.0"
-  resolved "https://registry.yarnpkg.com/when-json-met-bigint/-/when-json-met-bigint-0.21.0.tgz#cf2d1e78690a84767b073d8c05f2a419df7117b7"
-  integrity sha512-RZwbeIBslSCWR7oXT03mV2ojwy5A+iO7k55mNsmqrsWnvUqJtmimv4M9wULd8I9jHZj7HnYlW1ZRaQzj2FRjFg==
+when-json-met-bigint@^0.25.0:
+  version "0.25.0"
+  resolved "https://registry.yarnpkg.com/when-json-met-bigint/-/when-json-met-bigint-0.25.0.tgz#15b8a8048ee6e5fcf205484d5c73a0945680d943"
+  integrity sha512-SJqMCy5tXFiO+HH6g6DewyOEQpCRFtLw10ckhh/UlI3xFPvEEuhBkXU6gnxXA4xSrerKKgZpGbXzGl0FTb4ROg==
 
 which-boxed-primitive@^1.0.2:
   version "1.0.2"
